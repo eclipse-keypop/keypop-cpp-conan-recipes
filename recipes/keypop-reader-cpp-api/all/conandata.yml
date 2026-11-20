@@ -1,0 +1,4 @@
+sources:
+  "2.1.0":
+    url: "https://github.com/eclipse-keypop/keypop-reader-cpp-api/archive/refs/tags/2.1.0.tar.gz"
+    sha256: "19b47eb2f3e42439263c657a830e4cb5cd19b056d9f3ab91a380b5023fda7c8f"
