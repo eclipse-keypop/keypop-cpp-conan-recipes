@@ -1,0 +1,4 @@
+sources:
+  "2.0.2":
+    url: "https://github.com/eclipse-keypop/keypop-card-cpp-api/archive/refs/tags/2.0.2.tar.gz"
+    sha256: "bec08ab66444490b1c70ea82e2c93ffdd97120ddb181576e57e4f7dd52195bca"
