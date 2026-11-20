@@ -1,0 +1,4 @@
+sources:
+  "2.2.0":
+    url: "https://github.com/eclipse-keypop/keypop-calypso-card-cpp-api/archive/refs/tags/2.2.0.tar.gz"
+    sha256: "f5aee9ea72e6b420c8be3cf1cd9bd3fc0ec10e33ee1d509e66fbbeee4f3f0345"
