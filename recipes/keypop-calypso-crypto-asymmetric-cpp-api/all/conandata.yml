@@ -1,4 +1,4 @@
 sources:
-  "0.2.0":
-    url: "https://github.com/eclipse-keypop/keypop-calypso-crypto-asymmetric-cpp-api/archive/refs/tags/0.2.0.tar.gz"
-    sha256: "a57e1b208c1c9f19ce76ca687309a37da9a2fcb412f88f122cfdda925dec23be"
+  "0.2.1":
+    url: "https://github.com/eclipse-keypop/keypop-calypso-crypto-asymmetric-cpp-api/archive/refs/tags/0.2.1.tar.gz"
+    sha256: "86c11f438ec0de8497db63789765df9ca6a300498eba49ef0f417a81df03e287"
