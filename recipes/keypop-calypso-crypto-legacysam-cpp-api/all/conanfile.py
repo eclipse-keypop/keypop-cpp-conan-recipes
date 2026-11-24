@@ -49,12 +49,12 @@ class KeypopCalypsoCryptoLegacySamCppApiConan(ConanFile):
         cmake_layout(self)
 
     def requirements(self):
-        self.requires("keypop-reader-cpp-api/2.1.0", transitive_headers=True)
-        self.requires("keypop-calypso-card-cpp-api/2.2.0", transitive_headers=True)
+        self.requires("keypop-reader-cpp-api/[~2.1.0]", transitive_headers=True)
+        self.requires("keypop-calypso-card-cpp-api/[~2.2.0]", transitive_headers=True)
         # Not referenced by any public header today, but the CMake target
         # intentionally links it (see include/CMakeLists.txt), so downstream
         # consumers of Keypop::Calypso::Crypto::LegacySam get it too.
-        self.requires("keypop-calypso-crypto-symmetric-cpp-api/0.1.1")
+        self.requires("keypop-calypso-crypto-symmetric-cpp-api/[>=0.1.1 <1.0.0]")
 
     def build_requirements(self):
         if self.options.with_tests:

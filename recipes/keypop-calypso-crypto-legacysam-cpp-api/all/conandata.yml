@@ -1,4 +1,4 @@
 sources:
-  "1.0.0":
-    url: "https://github.com/eclipse-keypop/keypop-calypso-crypto-legacysam-cpp-api/archive/refs/tags/1.0.0.tar.gz"
-    sha256: "a054bbae75eb2841066e42b9ac57f4b157d15c359d242e68be12e90e41d93100"
+  "1.0.1":
+    url: "https://github.com/eclipse-keypop/keypop-calypso-crypto-legacysam-cpp-api/archive/refs/tags/1.0.1.tar.gz"
+    sha256: "ca520723ccec99206cf11ca5b681c88d06efcd0dabcf49c232403d6e0564be42"
