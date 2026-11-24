@@ -49,7 +49,7 @@ class KeypopCalypsoCardCppApiConan(ConanFile):
         cmake_layout(self)
 
     def requirements(self):
-        self.requires("keypop-reader-cpp-api/2.1.0", transitive_headers=True)
+        self.requires("keypop-reader-cpp-api/[~2.1.0]", transitive_headers=True)
 
     def build_requirements(self):
         if self.options.with_tests:
